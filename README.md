@@ -1,4 +1,4 @@
-This repo has reduction & mapping code for Keck/NIRSPEC observations of H3+ at Jupiter. 
+This repo has reduction & mapping code for Keck/NIRSPEC observations of H3+ at Jupiter. One day it will be a proper package, but this should be usable for now!
 
 The reccomended path when using them is:
 
